@@ -46,7 +46,6 @@ To explore and analyze a car dataset to extract meaningful insights and build a 
 |----------------------------------|------------------------------------------------|
 | `Sportscar.csv`                  | Cleaned dataset used for analysis              |
 | `Car_Data_Analysis.ipynb`        | Jupyter Notebook with full analysis            |
-| `Car_Data_Analysis_Report.pdf`   | Report on Car Data Analysis                    |
 
 ## 🛠️ Technologies Used
 
